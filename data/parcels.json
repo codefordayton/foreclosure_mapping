@@ -1,0 +1,5473 @@
+{
+   "FORECLOSURES": 
+   [
+   {
+      "TREASURER": false,
+      "CASENUM": "2010 CV 08026",
+      "FILEDATE": "10/06/2010",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C05001050005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2010 BR 00002",
+      "FILEDATE": "10/22/2010",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2011 CV 00716",
+      "FILEDATE": "01/27/2011",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64008090070","N64008090071"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2011 BR 00018",
+      "FILEDATE": "09/02/2011",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2011 BR 00024",
+      "FILEDATE": "09/02/2011",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2011 BR 00028",
+      "FILEDATE": "09/15/2011",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2011 CV 07079",
+      "FILEDATE": "10/03/2011",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2011 BR 00031",
+      "FILEDATE": "10/21/2011",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00003",
+      "FILEDATE": "01/20/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00007",
+      "FILEDATE": "01/26/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2012 CV 01448",
+      "FILEDATE": "02/23/2012",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72044090062"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00049",
+      "FILEDATE": "03/29/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00050",
+      "FILEDATE": "03/29/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00067",
+      "FILEDATE": "04/02/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2012 BR 00063",
+      "FILEDATE": "04/02/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2012 BR 00064",
+      "FILEDATE": "04/02/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2012 CV 04739",
+      "FILEDATE": "06/27/2012",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2017101B0048"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2012 CV 05362",
+      "FILEDATE": "07/24/2012",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010090103"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00140",
+      "FILEDATE": "09/20/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2012 BR 00163",
+      "FILEDATE": "12/04/2012",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00019",
+      "FILEDATE": "01/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00024",
+      "FILEDATE": "01/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00038",
+      "FILEDATE": "03/11/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00060",
+      "FILEDATE": "04/04/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00142",
+      "FILEDATE": "07/29/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00164",
+      "FILEDATE": "08/26/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00165",
+      "FILEDATE": "08/26/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 CV 05242",
+      "FILEDATE": "09/03/2013",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72015020071"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00171",
+      "FILEDATE": "09/03/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00180",
+      "FILEDATE": "09/09/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00169",
+      "FILEDATE": "09/03/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00172",
+      "FILEDATE": "09/03/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00197",
+      "FILEDATE": "09/23/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00195",
+      "FILEDATE": "09/23/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00196",
+      "FILEDATE": "09/23/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00212",
+      "FILEDATE": "10/03/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00219",
+      "FILEDATE": "10/15/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 CV 07722",
+      "FILEDATE": "12/18/2013",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47231080024"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00261",
+      "FILEDATE": "12/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00253",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00250",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00252",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00254",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00255",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2013 BR 00251",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00258",
+      "FILEDATE": "12/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00259",
+      "FILEDATE": "12/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00256",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00260",
+      "FILEDATE": "12/17/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00257",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2013 BR 00249",
+      "FILEDATE": "12/13/2013",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00007",
+      "FILEDATE": "01/03/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00023",
+      "FILEDATE": "01/28/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00048",
+      "FILEDATE": "02/18/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00045",
+      "FILEDATE": "02/18/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00082",
+      "FILEDATE": "03/18/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00093",
+      "FILEDATE": "03/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00117",
+      "FILEDATE": "04/04/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00099",
+      "FILEDATE": "03/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00094",
+      "FILEDATE": "03/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00092",
+      "FILEDATE": "03/20/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00123",
+      "FILEDATE": "04/10/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00145",
+      "FILEDATE": "04/17/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00137",
+      "FILEDATE": "04/15/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00150",
+      "FILEDATE": "04/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00167",
+      "FILEDATE": "05/01/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00154",
+      "FILEDATE": "04/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00169",
+      "FILEDATE": "05/01/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00156",
+      "FILEDATE": "04/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00189",
+      "FILEDATE": "05/23/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00198",
+      "FILEDATE": "05/27/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00195",
+      "FILEDATE": "05/23/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00223",
+      "FILEDATE": "06/11/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00228",
+      "FILEDATE": "06/12/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00273",
+      "FILEDATE": "07/08/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00307",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00312",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00305",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00311",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00321",
+      "FILEDATE": "07/28/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00322",
+      "FILEDATE": "07/28/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00323",
+      "FILEDATE": "07/28/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00319",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00315",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00309",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00314",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00306",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00310",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00313",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00316",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00317",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00318",
+      "FILEDATE": "07/25/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00324",
+      "FILEDATE": "07/30/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00308",
+      "FILEDATE": "07/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00325",
+      "FILEDATE": "07/30/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00326",
+      "FILEDATE": "07/30/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00328",
+      "FILEDATE": "07/30/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00320",
+      "FILEDATE": "07/28/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00327",
+      "FILEDATE": "07/30/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00345",
+      "FILEDATE": "08/13/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00347",
+      "FILEDATE": "08/13/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00358",
+      "FILEDATE": "08/18/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00452",
+      "FILEDATE": "10/22/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00457",
+      "FILEDATE": "10/24/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 CV 06182",
+      "FILEDATE": "10/30/2014",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48001010008"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00481",
+      "FILEDATE": "11/06/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00501",
+      "FILEDATE": "11/19/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 CV 06734",
+      "FILEDATE": "12/02/2014",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48006100006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2014 BR 00516",
+      "FILEDATE": "11/26/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2014 BR 00513",
+      "FILEDATE": "11/26/2014",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00004",
+      "FILEDATE": "01/02/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00008",
+      "FILEDATE": "01/09/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 00769",
+      "FILEDATE": "02/10/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64027150022"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00097",
+      "FILEDATE": "03/18/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 01794",
+      "FILEDATE": "04/03/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72039110028","R72039110026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00143",
+      "FILEDATE": "05/01/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 02823",
+      "FILEDATE": "05/28/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20177110007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 03176",
+      "FILEDATE": "06/17/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72063070041"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00218",
+      "FILEDATE": "07/21/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 03979",
+      "FILEDATE": "07/30/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57506120004","M57506120003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 03938",
+      "FILEDATE": "07/30/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72118090054"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 04404",
+      "FILEDATE": "08/24/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["F22014040020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 04388",
+      "FILEDATE": "08/24/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39011040038"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 04994",
+      "FILEDATE": "09/24/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64010160002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 04953",
+      "FILEDATE": "09/23/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64019050030"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 05297",
+      "FILEDATE": "10/09/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20501120015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 05131",
+      "FILEDATE": "10/01/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67185070013"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00302",
+      "FILEDATE": "10/07/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 05329",
+      "FILEDATE": "10/12/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47188010013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 05593",
+      "FILEDATE": "10/22/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I391014040004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 05726",
+      "FILEDATE": "10/29/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39010090026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00323",
+      "FILEDATE": "10/23/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00317",
+      "FILEDATE": "10/20/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06023",
+      "FILEDATE": "11/16/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72063050060"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06094",
+      "FILEDATE": "11/19/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72143090039"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00356",
+      "FILEDATE": "11/19/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06090",
+      "FILEDATE": "11/18/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72149090018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06262",
+      "FILEDATE": "11/30/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39007160012","I39007160011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06504",
+      "FILEDATE": "12/11/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7204805A0046"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06556",
+      "FILEDATE": "12/15/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72040060031"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00363",
+      "FILEDATE": "12/11/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06628",
+      "FILEDATE": "12/18/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112010051"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06634",
+      "FILEDATE": "12/21/2015",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048060039"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2015 BR 00371",
+      "FILEDATE": "12/28/2015",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2015 CV 06805",
+      "FILEDATE": "12/31/2015",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00006",
+      "FILEDATE": "01/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00235",
+      "FILEDATE": "01/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27245040026"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00178",
+      "FILEDATE": "01/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00182",
+      "FILEDATE": "01/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48503050034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00192",
+      "FILEDATE": "01/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02003090075"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00052",
+      "FILEDATE": "01/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00102",
+      "FILEDATE": "01/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00168",
+      "FILEDATE": "01/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00231",
+      "FILEDATE": "01/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 00210",
+      "FILEDATE": "01/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68007140005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00115",
+      "FILEDATE": "01/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72166040059"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00415",
+      "FILEDATE": "01/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72165090025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00355",
+      "FILEDATE": "01/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00012",
+      "FILEDATE": "01/22/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00320",
+      "FILEDATE": "01/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71016050045"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00375",
+      "FILEDATE": "01/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21174030057","E2117207A0081","E2117207A0082","E2117207A0083","E21172090003","E21172090004","E21172090005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00557",
+      "FILEDATE": "02/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48001020023"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00014",
+      "FILEDATE": "02/01/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00561",
+      "FILEDATE": "02/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72143030002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00535",
+      "FILEDATE": "01/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67500090040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00811",
+      "FILEDATE": "02/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20170020039"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00024",
+      "FILEDATE": "02/17/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00716",
+      "FILEDATE": "02/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64019020142"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00773",
+      "FILEDATE": "02/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72139030003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00843",
+      "FILEDATE": "02/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72119160003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00745",
+      "FILEDATE": "02/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72034030061"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00793",
+      "FILEDATE": "02/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72129020011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01019",
+      "FILEDATE": "02/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47229140004"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 00951",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010060019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01011",
+      "FILEDATE": "02/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64021170011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01052",
+      "FILEDATE": "02/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70004120004"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00026",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00037",
+      "FILEDATE": "02/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00027",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01030",
+      "FILEDATE": "02/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333011240004"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00035",
+      "FILEDATE": "02/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00031",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00034",
+      "FILEDATE": "02/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00968",
+      "FILEDATE": "02/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333013070041"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01102",
+      "FILEDATE": "02/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010110108"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00032",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00038",
+      "FILEDATE": "02/26/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00039",
+      "FILEDATE": "02/26/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00028",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00947",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180100002"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00033",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00030",
+      "FILEDATE": "02/19/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 00967",
+      "FILEDATE": "02/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21176020110","E21176020111"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00036",
+      "FILEDATE": "02/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00041",
+      "FILEDATE": "02/26/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00048",
+      "FILEDATE": "03/07/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01210",
+      "FILEDATE": "03/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72047050001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01280",
+      "FILEDATE": "03/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147130008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01328",
+      "FILEDATE": "03/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72013020045"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00044",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00045",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01134",
+      "FILEDATE": "02/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147050087"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01125",
+      "FILEDATE": "02/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72035020036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01154",
+      "FILEDATE": "03/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46011080003"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00046",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00042",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00043",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01282",
+      "FILEDATE": "03/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72054060032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01244",
+      "FILEDATE": "03/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70001040001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01253",
+      "FILEDATE": "03/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72129090020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01470",
+      "FILEDATE": "03/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72117030007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01395",
+      "FILEDATE": "03/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72106070074"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01531",
+      "FILEDATE": "03/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33016130035"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00053",
+      "FILEDATE": "03/17/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01454",
+      "FILEDATE": "03/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K4502614A0013"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00057",
+      "FILEDATE": "03/17/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00050",
+      "FILEDATE": "03/16/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 BR 00049",
+      "FILEDATE": "03/16/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 BR 00051",
+      "FILEDATE": "03/16/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01518",
+      "FILEDATE": "03/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500100008"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00054",
+      "FILEDATE": "03/16/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01373",
+      "FILEDATE": "03/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70017080049"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01532",
+      "FILEDATE": "03/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N6400405A0003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01347",
+      "FILEDATE": "03/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33005010010"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00052",
+      "FILEDATE": "03/17/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00055",
+      "FILEDATE": "03/16/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01779",
+      "FILEDATE": "04/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333013030034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01726",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20242040027"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00066",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00058",
+      "FILEDATE": "03/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00060",
+      "FILEDATE": "03/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01775",
+      "FILEDATE": "04/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333008110030"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01584",
+      "FILEDATE": "03/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64001110034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01597",
+      "FILEDATE": "03/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68514070005","O68514070006"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01714",
+      "FILEDATE": "03/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180160006"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00059",
+      "FILEDATE": "03/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00063",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01776",
+      "FILEDATE": "04/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33021110069"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01750",
+      "FILEDATE": "04/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48002230020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01620",
+      "FILEDATE": "03/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67208160048"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01683",
+      "FILEDATE": "03/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67214100004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01689",
+      "FILEDATE": "03/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L53029060023"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00065",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00067",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01701",
+      "FILEDATE": "03/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72022090081"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00068",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01705",
+      "FILEDATE": "03/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33004140002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01650",
+      "FILEDATE": "03/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72148030009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01742",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64008070016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01675",
+      "FILEDATE": "03/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R726173220028"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00061",
+      "FILEDATE": "03/25/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01716",
+      "FILEDATE": "03/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33003010006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01629",
+      "FILEDATE": "03/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72162140050"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01641",
+      "FILEDATE": "03/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72062050003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01648",
+      "FILEDATE": "03/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20175120002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01718",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["J44209040025"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00062",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00064",
+      "FILEDATE": "03/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01815",
+      "FILEDATE": "04/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21172040063"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01855",
+      "FILEDATE": "04/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L53165100045"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 01908",
+      "FILEDATE": "04/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72021030072"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01952",
+      "FILEDATE": "04/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33013020004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01903",
+      "FILEDATE": "04/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46004230005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01832",
+      "FILEDATE": "04/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72092020012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01954",
+      "FILEDATE": "04/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C06004110032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01845",
+      "FILEDATE": "04/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21174080118"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01943",
+      "FILEDATE": "04/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48004030023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01800",
+      "FILEDATE": "04/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["J441282160019"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00071",
+      "FILEDATE": "04/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01901",
+      "FILEDATE": "04/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D14009080017"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01842",
+      "FILEDATE": "04/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K452001150041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01871",
+      "FILEDATE": "04/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7203204B0002"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00076",
+      "FILEDATE": "04/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01979",
+      "FILEDATE": "04/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180070003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01949",
+      "FILEDATE": "04/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27246040015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01827",
+      "FILEDATE": "04/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147070074"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01797",
+      "FILEDATE": "04/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G29182010048"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01957",
+      "FILEDATE": "04/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64012110049"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01820",
+      "FILEDATE": "04/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39009030065","I39009030064"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01890",
+      "FILEDATE": "04/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70003020016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 01999",
+      "FILEDATE": "04/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72126090072"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02103",
+      "FILEDATE": "04/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72143070019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02137",
+      "FILEDATE": "04/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21173040004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02049",
+      "FILEDATE": "04/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010170036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02142",
+      "FILEDATE": "04/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72122060039"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02004",
+      "FILEDATE": "04/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57001190026","M57001190027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02102",
+      "FILEDATE": "04/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I394013190055"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02092",
+      "FILEDATE": "04/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67286020007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02120",
+      "FILEDATE": "04/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015170009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02022",
+      "FILEDATE": "04/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45511230020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02027",
+      "FILEDATE": "04/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71503200047"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02170",
+      "FILEDATE": "04/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72039070050"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02165",
+      "FILEDATE": "04/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71007060002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02086",
+      "FILEDATE": "04/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20175110011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02167",
+      "FILEDATE": "04/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72109010019"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00077",
+      "FILEDATE": "04/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02026",
+      "FILEDATE": "04/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33022100054"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02227",
+      "FILEDATE": "04/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46008200019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02224",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20241080009"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00083",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00086",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00087",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02196",
+      "FILEDATE": "04/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R721172100001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02258",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72104030029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02235",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L53029110067"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02260",
+      "FILEDATE": "05/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R722173210004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02298",
+      "FILEDATE": "05/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39009120046","I39009120050"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02198",
+      "FILEDATE": "04/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64001100026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02203",
+      "FILEDATE": "04/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010060053"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00079",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02330",
+      "FILEDATE": "05/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64033070030"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00078",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02278",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72071100016"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02204",
+      "FILEDATE": "04/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333009120122"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00080",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02242",
+      "FILEDATE": "04/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67500140017"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00081",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02255",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45513100001"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00082",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02251",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71014060034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02299",
+      "FILEDATE": "05/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64016130009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02305",
+      "FILEDATE": "05/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72005080022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02257",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D13003150038"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02297",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45283320011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02265",
+      "FILEDATE": "05/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C05003170025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02229",
+      "FILEDATE": "04/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60164260009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02276",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72044080001"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00085",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02337",
+      "FILEDATE": "05/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58004330007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02283",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72071090040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02317",
+      "FILEDATE": "05/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70016170014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02341",
+      "FILEDATE": "05/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57008080045"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02195",
+      "FILEDATE": "04/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67505010007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02319",
+      "FILEDATE": "05/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R726175020025"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00088",
+      "FILEDATE": "05/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02324",
+      "FILEDATE": "05/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67514360066"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00084",
+      "FILEDATE": "05/02/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02430",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48003110029"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02407",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72117010009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02443",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["J441209140029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02479",
+      "FILEDATE": "05/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68509070043"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02392",
+      "FILEDATE": "05/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72155060065"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00095",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02514",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33001180018"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00098",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00097",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02365",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72115080026","R72115080025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02400",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72120150016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02413",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64036050007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02500",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70019150007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02415",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["J441264150002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02396",
+      "FILEDATE": "05/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58002080026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02403",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72083050058"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02488",
+      "FILEDATE": "05/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7202407B0026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02394",
+      "FILEDATE": "05/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00089",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00096",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00090",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00093",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02374",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46008200021"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02427",
+      "FILEDATE": "05/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72034060041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02351",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L52001140007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00094",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02484",
+      "FILEDATE": "05/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20011060005","E20011060006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02496",
+      "FILEDATE": "05/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64008070071","N64008070072"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02398",
+      "FILEDATE": "05/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72053010074"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02529",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72079080035"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02345",
+      "FILEDATE": "05/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72038060007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00092",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02388",
+      "FILEDATE": "05/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47232090002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02499",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015170014"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00091",
+      "FILEDATE": "05/13/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02357",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72022080040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02498",
+      "FILEDATE": "05/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60254150003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02353",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64016100039","N64016090007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00099",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00100",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02515",
+      "FILEDATE": "05/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20177130012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02544",
+      "FILEDATE": "05/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72072090013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02545",
+      "FILEDATE": "05/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72077030025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02548",
+      "FILEDATE": "05/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72156120014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02377",
+      "FILEDATE": "05/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72160090016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02737",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72140110008"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00115",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00107",
+      "FILEDATE": "05/23/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02695",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33011200014"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00103",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00105",
+      "FILEDATE": "05/23/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02570",
+      "FILEDATE": "05/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46511070040"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02621",
+      "FILEDATE": "05/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72171060011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02694",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7204805A0084"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00102",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02606",
+      "FILEDATE": "05/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112100017"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02617",
+      "FILEDATE": "05/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33015180001"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00111",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02717",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60163230057"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00114",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00110",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00104",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00112",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00113",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02681",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I391014110033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02651",
+      "FILEDATE": "05/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67202010002"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00101",
+      "FILEDATE": "05/20/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02572",
+      "FILEDATE": "05/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39010130036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02629",
+      "FILEDATE": "05/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2117601A0061"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02743",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64014060018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02601",
+      "FILEDATE": "05/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60032010072","M60032010100"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02619",
+      "FILEDATE": "05/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70039080017"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02738",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C05001020037"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00106",
+      "FILEDATE": "05/23/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00108",
+      "FILEDATE": "05/26/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02655",
+      "FILEDATE": "05/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47212030007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00109",
+      "FILEDATE": "05/26/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02725",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02002050041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02687",
+      "FILEDATE": "05/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015090017"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02719",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72154040074"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00116",
+      "FILEDATE": "05/31/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02843",
+      "FILEDATE": "06/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72024090033"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00120",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00121",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02762",
+      "FILEDATE": "06/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D13001040186"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02871",
+      "FILEDATE": "06/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21176010085"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02873",
+      "FILEDATE": "06/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G2918202A0076","G2918202A0077","G2918202A0078"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02927",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20181030012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02754",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70022020015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02915",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46007020004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02813",
+      "FILEDATE": "06/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20170070234"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00118",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02916",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72090010014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02928",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71016030043"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02932",
+      "FILEDATE": "06/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2017102B0085"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00122",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02930",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72132110059"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02842",
+      "FILEDATE": "06/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72165080023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02751",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72069030069"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02825",
+      "FILEDATE": "06/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33023110191"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02884",
+      "FILEDATE": "06/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33001100036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02755",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72069110004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02776",
+      "FILEDATE": "06/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["A01201160033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02798",
+      "FILEDATE": "06/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02800",
+      "FILEDATE": "06/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02862",
+      "FILEDATE": "06/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72159040030"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00117",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00119",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02793",
+      "FILEDATE": "06/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20171040040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02874",
+      "FILEDATE": "06/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67036060036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02920",
+      "FILEDATE": "06/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72138100026"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02766",
+      "FILEDATE": "06/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72158200004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02847",
+      "FILEDATE": "06/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64502140184"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02748",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72052070035"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02757",
+      "FILEDATE": "06/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L55027080003","L55027080004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02801",
+      "FILEDATE": "06/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45025030075"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02854",
+      "FILEDATE": "06/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72114070020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03094",
+      "FILEDATE": "06/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02001240010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02974",
+      "FILEDATE": "06/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67290170011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02960",
+      "FILEDATE": "06/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57010150011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03114",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64019120008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03124",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R723171120001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03141",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64015010031"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03163",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67514090118","O67514090143"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02991",
+      "FILEDATE": "06/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03041",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64019050087"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03080",
+      "FILEDATE": "06/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["F24001020055","F24001020056"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03088",
+      "FILEDATE": "06/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64004060154"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03116",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02002100037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03103",
+      "FILEDATE": "06/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["F23001060047"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03142",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60164170040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03162",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33004040018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03166",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33022070064"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03031",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M60252220020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03034",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70014150023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03057",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20173180006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03078",
+      "FILEDATE": "06/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333008090067","H333008090068","H333008090069"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03011",
+      "FILEDATE": "06/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72114090032","R72114090033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03152",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03179",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72077080103"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02992",
+      "FILEDATE": "06/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21174030006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03035",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70009070019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03070",
+      "FILEDATE": "06/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64020170004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03104",
+      "FILEDATE": "06/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45256030021"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03040",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010180027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03043",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L54003090014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03161",
+      "FILEDATE": "06/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39009040052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02990",
+      "FILEDATE": "06/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64003080060"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 02964",
+      "FILEDATE": "06/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27016060107"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03120",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I391014030008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03037",
+      "FILEDATE": "06/16/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72139010006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03059",
+      "FILEDATE": "06/17/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K50184220059"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03105",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500010314"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03129",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72133180023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03130",
+      "FILEDATE": "06/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112030062"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 02957",
+      "FILEDATE": "06/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64015120016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03083",
+      "FILEDATE": "06/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015120013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03197",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D13001090193","D13001090192"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03234",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72151070067"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00132",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00134",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00123",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03350",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72062010015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03213",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39006150054"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03215",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72027050083"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00128",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03208",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72034030025"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00124",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00127",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03209",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27016110040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03192",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57005050019"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00126",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00129",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00131",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03275",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33004100026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00138",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03328",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48002180001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03288",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72013020010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03293",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72120020006"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00136",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03332",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R727174130001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03296",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64006170022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03210",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112080007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03261",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112030014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03314",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67291090013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03262",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47232140002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03337",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72145090005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03246",
+      "FILEDATE": "06/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70004170006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03358",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048040063"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00135",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03368",
+      "FILEDATE": "07/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048030032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03365",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72053010038"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03388",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70017030008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03230",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72165130015"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00141",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00144",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00145",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03390",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500010403"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03322",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47504190013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03393",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68512060025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03204",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010090146"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03340",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C08001110005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03363",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72029030060","R72029030062"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00137",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03211",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03286",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47507130003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03315",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39011010001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03216",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180030080"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03305",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67291090014"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00139",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00140",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03366",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048010064"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03291",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72054030070","R72052100069"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03346",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33023040019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03391",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72160050006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03331",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64008040001","N64008030181"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03316",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67291090016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03207",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K50025090040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03214",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27017110052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03361",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70014080036"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00125",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00133",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03283",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2001005A0029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03260",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C05003150024"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03339",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20176100001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03360",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39010210007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03222",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7207104A0042"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00142",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00143",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03272",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72074010006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03334",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D13003170022"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00130",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03276",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46008200022"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 03321",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46001100091"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03193",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20241040006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03377",
+      "FILEDATE": "07/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72145010054"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03323",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72047110089"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03206",
+      "FILEDATE": "06/23/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D18007040032","D18007040033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03250",
+      "FILEDATE": "06/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58002080024"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03280",
+      "FILEDATE": "06/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72141090039"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03356",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72034080052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03329",
+      "FILEDATE": "06/30/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72039080051"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03219",
+      "FILEDATE": "06/24/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72138030025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03302",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47256210027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03312",
+      "FILEDATE": "06/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67291090015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03355",
+      "FILEDATE": "07/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64510060003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03460",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58003110032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03531",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015160023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03399",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21190050019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03501",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72162060057"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00146",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03524",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33012120041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03529",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39009020019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03403",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72119130139"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03447",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72134040027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03493",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48006160032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03506",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64016140020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03590",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70018030020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03413",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72116070030"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03538",
+      "FILEDATE": "07/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21174030077"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03466",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I391014080046"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03479",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67223110020"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03486",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64015030014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03443",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46008130010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03395",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72151070057"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03457",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["G27183160025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03604",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R726037040022"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00150",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03511",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48002240009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03458",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33017150008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03464",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39001200046"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 03507",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72104120006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03611",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02010040004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03502",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64001020001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03547",
+      "FILEDATE": "07/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46004230042"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03552",
+      "FILEDATE": "07/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["D13002110023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03463",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147100022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03411",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72110010018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03442",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72164100034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03519",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67503180046"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03434",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64022080002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03445",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68002170014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03476",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33021030052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03402",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72070090054"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00148",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03412",
+      "FILEDATE": "07/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48505070004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03500",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33012200014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03541",
+      "FILEDATE": "07/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58004080003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03574",
+      "FILEDATE": "07/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39001200052","I39001200051"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 03508",
+      "FILEDATE": "07/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72023060007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03427",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64040210029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03588",
+      "FILEDATE": "07/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72052140049"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03480",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72151040037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03494",
+      "FILEDATE": "07/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M601164160048"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03471",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48504220067"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00149",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03448",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72146020041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03576",
+      "FILEDATE": "07/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57007120026"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00151",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03614",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33017160011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03587",
+      "FILEDATE": "07/14/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48501080056"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03591",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72027030037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03475",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57004140016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03437",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70008070002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03440",
+      "FILEDATE": "07/07/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147040003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03462",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72104060016"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03465",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72110030024"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00147",
+      "FILEDATE": "07/15/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03459",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72038090027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03537",
+      "FILEDATE": "07/13/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R726514280013"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03478",
+      "FILEDATE": "07/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72120040008","R72120040007","R72120040009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03796",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02006160005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03868",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500010215"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03658",
+      "FILEDATE": "07/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20242040014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03820",
+      "FILEDATE": "07/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["J44209010060"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03725",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33013210036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03741",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39008020011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03730",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72145030012"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 03685",
+      "FILEDATE": "07/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72039050008"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00154",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03890",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46012130010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03808",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72112050022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03892",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C05003170052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03908",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20190130027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03805",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180160024"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03847",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72079080010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03727",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20170120008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03629",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["A01261210015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03897",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48001150061"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03819",
+      "FILEDATE": "07/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48005150096"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03708",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48005150084"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03660",
+      "FILEDATE": "07/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68512250165","O68512250184"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03671",
+      "FILEDATE": "07/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70008030039"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03755",
+      "FILEDATE": "07/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33023040071"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03744",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67505050010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03761",
+      "FILEDATE": "07/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67510150043"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03650",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57002140011"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00152",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03641",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["Q71001100001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03799",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R722173200003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03748",
+      "FILEDATE": "07/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70022030037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03706",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33013210037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03661",
+      "FILEDATE": "07/19/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["L55255120002"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03735",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70016040018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03753",
+      "FILEDATE": "07/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015120061"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00153",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03704",
+      "FILEDATE": "07/20/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["C08001030026"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03747",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["A01002090068"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03818",
+      "FILEDATE": "07/26/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["A01201180008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03630",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010090095"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03885",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64001110041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03651",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64011030022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03749",
+      "FILEDATE": "07/22/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500010007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03778",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70502070006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03846",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["A01276090005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03736",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72118090054"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03862",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46008200024","K46008200018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03633",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20180060028"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03746",
+      "FILEDATE": "07/21/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02013060018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03798",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R7210403B0037"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03855",
+      "FILEDATE": "07/27/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72046070055"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03632",
+      "FILEDATE": "07/18/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72120010033","R72120010032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03783",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E21173050011"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03806",
+      "FILEDATE": "07/25/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333010040030"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00156",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04040",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64010170048"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00160",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04075",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72063080018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04076",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72168130045"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03960",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02001050038"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03930",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72146010036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04022",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47229020014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04054",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67281150007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04020",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46001130012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04070",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67284210009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03975",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33002080018"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04036",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2018005B0004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04037",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39011140010"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03925",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70015080005"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00158",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03921",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70006020027"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03923",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48501080028"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03963",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333013150007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03918",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72070090044"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04052",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I393002010012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04056",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20176140032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03958",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39010160006"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03991",
+      "FILEDATE": "08/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48006030033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04011",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58001060032"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00159",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04005",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E2117207A0032"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03949",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72152010008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04002",
+      "FILEDATE": "08/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45187130005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03972",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02002040033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04006",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64008010036"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04013",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68512250021"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04029",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72060070034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04032",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72147080025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03917",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72151090030"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03942",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500100082"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03934",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K4502614A0069"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00155",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04004",
+      "FILEDATE": "08/03/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46002210040"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 CV 03971",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333022010079"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04058",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48006120022"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03919",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O68006100003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03974",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["I39010140026"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03911",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64010160029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04033",
+      "FILEDATE": "08/04/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02002050040"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03952",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72143080025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03973",
+      "FILEDATE": "08/01/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70013130015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03980",
+      "FILEDATE": "08/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20170060023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03920",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500100085"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03977",
+      "FILEDATE": "08/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72034040056"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03914",
+      "FILEDATE": "07/28/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46017060005"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03946",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33014020007"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00161",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00162",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03993",
+      "FILEDATE": "08/02/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64009030001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 03951",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72106090028"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00157",
+      "FILEDATE": "07/29/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00169",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00168",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04180",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64010190007"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04181",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70016040001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04213",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72150020042"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04165",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64014150009"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04194",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72120010015"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04100",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58003030049"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00175",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04111",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48504220021","K48504220126"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00177",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04130",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33002110003"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04163",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46005130014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04101",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72162090028"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04091",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72072060020"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00176",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04171",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70017170033"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04160",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048100069","R72048130052","R72048130053","R72048130056","R72048130057","R72048130058"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04225",
+      "FILEDATE": "08/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48003100025"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04108",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57001090051"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04187",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45266200008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04195",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70005200019"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00174",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00172",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04217",
+      "FILEDATE": "08/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64003080078"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04157",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72022030023"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04133",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["N64045180001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04143",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K48004140012"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04146",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M57001070008"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04147",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70040050121"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04125",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["P70012070029"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04081",
+      "FILEDATE": "08/06/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["M58001080002"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00170",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04106",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72165100103"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04116",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72039070041"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04179",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72149030077"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04093",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72068090001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04197",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67289140001"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04102",
+      "FILEDATE": "08/08/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46016080004"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04183",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048080019"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04137",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20170010141"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04221",
+      "FILEDATE": "08/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72149050054"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00173",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04164",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["E20175050052"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04121",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["O67223080014","O67223080014"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04126",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72152100038"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00164",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00163",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00166",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04172",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K46001100072"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04113",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K45500010231"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04161",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H333008200036"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00167",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00165",
+      "FILEDATE": "08/05/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04135",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["K47229030035"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04200",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04230",
+      "FILEDATE": "08/15/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72062100077"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04166",
+      "FILEDATE": "08/11/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["H33014140019"]
+   },
+   {
+      "TREASURER": true,
+      "CASENUM": "2016 BR 00171",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "BOARD OF REVISION EXPEDITED FORECLOSURE CASE"
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04123",
+      "FILEDATE": "08/09/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72035010035","R72035010034"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04144",
+      "FILEDATE": "08/10/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["R72048010062"]
+   },
+   {
+      "TREASURER": false,
+      "CASENUM": "2016 CV 04186",
+      "FILEDATE": "08/12/2016",
+      "TYPE": "MORTGAGE FORECLOSURE",
+      "PARCEL": ["B02002140011"]
+   }
+   ]
+}
